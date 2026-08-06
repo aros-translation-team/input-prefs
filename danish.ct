@@ -1,4 +1,4 @@
-## version $VER: Input.catalog 3.0 (13.06.2017)
+## version $VER: Input.catalog 3.0 (06.08.2026)
 ## language dansk
 ## codeset 0
 ;
@@ -49,11 +49,11 @@ Type
 ; Type
 ;
 MSG_GAD_MOUSE_BUTTON_SETTINGS
-
+Museknapper
 ; Mouse buttons
 ;
 MSG_GAD_LEFT_HANDED_MOUSE
-
+Venstrehåndsmus
 ; Left-handed mouse
 ;
 MSG_GAD_MOUSE_SPEED_SLOW
@@ -69,26 +69,26 @@ Hurtig
 ; Fast
 ;
 MSG_GAD_KEY_DEF  
-
+Standard
 ; Default
 ;
 MSG_GAD_KEY_ALT
-
+Alternativt
 ; Alternate
 ;
 MSG_GAD_KEY_SET
-
+Sæt
 ; Set
 ;
 MSG_GAD_KEY_SWITCH
-
+Layoutskift
 ; Layout switching
 ;
 MSG_GAD_KEY_SWITCH_ENABLE
-
+Aktiveret
 ; Enabled
 ;
 MSG_GAD_KEY_SWITCH_KEY
-
+Genvejstast
 ; Hotkey
 ;

@@ -1,4 +1,4 @@
-## version $VER: Input.catalog 3.0 (13.06.2017)
+## version $VER: Input.catalog 3.0 (06.08.2026)
 ## language português
 ## codeset 0
 ; 
@@ -50,11 +50,11 @@ Escever
 ;Type
 ;
 MSG_GAD_MOUSE_BUTTON_SETTINGS
-
+Botões do rato
 ; Mouse buttons
 ;
 MSG_GAD_LEFT_HANDED_MOUSE
-
+Rato para canhotos
 ; Left-handed mouse
 ;
 MSG_GAD_MOUSE_SPEED_SLOW
@@ -69,26 +69,26 @@ Rápido
 ;Fast
 ;
 MSG_GAD_KEY_DEF  
-
+Habitual
 ; Default
 ;
 MSG_GAD_KEY_ALT
-
+Alternativo
 ; Alternate
 ;
 MSG_GAD_KEY_SET
-
+Conjunto
 ; Set
 ;
 MSG_GAD_KEY_SWITCH
-
+Mudança de disposição
 ; Layout switching
 ;
 MSG_GAD_KEY_SWITCH_ENABLE
-
+Ligado
 ; Enabled
 ;
 MSG_GAD_KEY_SWITCH_KEY
-
+Tecla de atalho
 ; Hotkey
 ;
