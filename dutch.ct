@@ -1,0 +1,92 @@
+## version $VER: Input.catalog 3.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_NAME
+Invoer Instellingen
+; Input Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_GAD_TAB_MOUSE
+Muis
+; Mouse
+;
+MSG_GAD_TAB_KEYBOARD
+Toetsenbord
+; Keyboard
+;
+MSG_GAD_MOUSE_SPEED
+Muissnelheid
+; Mouse Speed
+;
+MSG_GAD_MOUSE_ACCELERATED
+Versneld
+; Accelerated
+;
+MSG_GAD_MOUSE_DOUBLE_CLICK_DELAY
+Dubbelklikvertraging
+; Double-Click Delay
+;
+MSG_GAD_KEY_REPEAT_DELAY
+Herhaalvertraging toets
+; Key Repeat Delay
+;
+MSG_GAD_KEY_REPEAT_RATE
+Herhaalsnelheid toets
+; Key Repeat Rate
+;
+MSG_GAD_KEY_TEST
+Test
+; Test
+;
+MSG_GAD_KEY_TYPE
+Type
+; Type
+;
+MSG_GAD_MOUSE_BUTTON_SETTINGS
+Muisknoppen
+; Mouse buttons
+;
+MSG_GAD_LEFT_HANDED_MOUSE
+Linkshandige muis
+; Left-handed mouse
+;
+MSG_GAD_MOUSE_SPEED_SLOW
+Langzaam
+; Slow
+;
+MSG_GAD_MOUSE_SPEED_NORMAL
+Normaal
+; Normal
+;
+MSG_GAD_MOUSE_SPEED_FAST
+Snel
+; Fast
+;
+MSG_GAD_KEY_DEF
+Standaard
+; Default
+;
+MSG_GAD_KEY_ALT
+Alternatief
+; Alternate
+;
+MSG_GAD_KEY_SET
+Instellen
+; Set
+;
+MSG_GAD_KEY_SWITCH
+Indeling wisselen
+; Layout switching
+;
+MSG_GAD_KEY_SWITCH_ENABLE
+Ingeschakeld
+; Enabled
+;
+MSG_GAD_KEY_SWITCH_KEY
+Sneltoets
+; Hotkey
+;

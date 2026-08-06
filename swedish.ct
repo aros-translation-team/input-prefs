@@ -1,0 +1,92 @@
+## version $VER: Input.catalog 3.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_NAME
+Inmatningsinställningar
+; Input Preferences
+;
+MSG_OK
+OK
+; Ok
+;
+MSG_GAD_TAB_MOUSE
+Mus
+; Mouse
+;
+MSG_GAD_TAB_KEYBOARD
+Tangentbord
+; Keyboard
+;
+MSG_GAD_MOUSE_SPEED
+Mushastighet
+; Mouse Speed
+;
+MSG_GAD_MOUSE_ACCELERATED
+Accelererad
+; Accelerated
+;
+MSG_GAD_MOUSE_DOUBLE_CLICK_DELAY
+Dubbelklicksfördröjning
+; Double-Click Delay
+;
+MSG_GAD_KEY_REPEAT_DELAY
+Fördröjning för tangentrepetition
+; Key Repeat Delay
+;
+MSG_GAD_KEY_REPEAT_RATE
+Hastighet för tangentrepetition
+; Key Repeat Rate
+;
+MSG_GAD_KEY_TEST
+Testa
+; Test
+;
+MSG_GAD_KEY_TYPE
+Typ
+; Type
+;
+MSG_GAD_MOUSE_BUTTON_SETTINGS
+Musknappar
+; Mouse buttons
+;
+MSG_GAD_LEFT_HANDED_MOUSE
+Vänsterhänt mus
+; Left-handed mouse
+;
+MSG_GAD_MOUSE_SPEED_SLOW
+Långsam
+; Slow
+;
+MSG_GAD_MOUSE_SPEED_NORMAL
+Normal
+; Normal
+;
+MSG_GAD_MOUSE_SPEED_FAST
+Snabbt
+; Fast
+;
+MSG_GAD_KEY_DEF
+Standard
+; Default
+;
+MSG_GAD_KEY_ALT
+Alternativ
+; Alternate
+;
+MSG_GAD_KEY_SET
+Ange
+; Set
+;
+MSG_GAD_KEY_SWITCH
+Layoutbyte
+; Layout switching
+;
+MSG_GAD_KEY_SWITCH_ENABLE
+Påslaget
+; Enabled
+;
+MSG_GAD_KEY_SWITCH_KEY
+Snabbtangent
+; Hotkey
+;

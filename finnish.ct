@@ -1,0 +1,92 @@
+## version $VER: Input.catalog 3.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_NAME
+Syöttölaitteiden asetukset
+; Input Preferences
+;
+MSG_OK
+Selvä
+; Ok
+;
+MSG_GAD_TAB_MOUSE
+Hiiri
+; Mouse
+;
+MSG_GAD_TAB_KEYBOARD
+Näppäimistö
+; Keyboard
+;
+MSG_GAD_MOUSE_SPEED
+Hiiren nopeus
+; Mouse Speed
+;
+MSG_GAD_MOUSE_ACCELERATED
+Kiihdytetty
+; Accelerated
+;
+MSG_GAD_MOUSE_DOUBLE_CLICK_DELAY
+Kaksoisnapsautuksen viive
+; Double-Click Delay
+;
+MSG_GAD_KEY_REPEAT_DELAY
+Näppäintoiston viive
+; Key Repeat Delay
+;
+MSG_GAD_KEY_REPEAT_RATE
+Näppäintoiston nopeus
+; Key Repeat Rate
+;
+MSG_GAD_KEY_TEST
+Testi
+; Test
+;
+MSG_GAD_KEY_TYPE
+Tyyppi
+; Type
+;
+MSG_GAD_MOUSE_BUTTON_SETTINGS
+Hiiren painikkeet
+; Mouse buttons
+;
+MSG_GAD_LEFT_HANDED_MOUSE
+Vasenkätinen hiiri
+; Left-handed mouse
+;
+MSG_GAD_MOUSE_SPEED_SLOW
+Hidas
+; Slow
+;
+MSG_GAD_MOUSE_SPEED_NORMAL
+Normaali
+; Normal
+;
+MSG_GAD_MOUSE_SPEED_FAST
+Nopea
+; Fast
+;
+MSG_GAD_KEY_DEF
+Oletus
+; Default
+;
+MSG_GAD_KEY_ALT
+Vaihtoehtoinen
+; Alternate
+;
+MSG_GAD_KEY_SET
+Aseta
+; Set
+;
+MSG_GAD_KEY_SWITCH
+Asettelun vaihto
+; Layout switching
+;
+MSG_GAD_KEY_SWITCH_ENABLE
+Päällä
+; Enabled
+;
+MSG_GAD_KEY_SWITCH_KEY
+Pikanäppäin
+; Hotkey
+;
